@@ -21,7 +21,7 @@
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :sparkling_heart: Programming & software development are my passions.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
