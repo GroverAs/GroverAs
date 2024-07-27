@@ -30,9 +30,12 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :hammer_and_wrench: Languages and Tools :
 - Java 17+
 - Spring Framework
+- Spring Boot
+- Spring MVC
 - PostgreSQL, MySQL
 - IntelliJ IDEA
 - JUnit
+- Postman
 - Maven
 - REST
 - Git
